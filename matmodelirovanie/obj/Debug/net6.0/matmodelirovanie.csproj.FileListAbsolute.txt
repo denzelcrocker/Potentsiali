@@ -1,0 +1,15 @@
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\obj\Debug\net6.0\matmodelirovanie.csproj.AssemblyReference.cache
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\obj\Debug\net6.0\matmodelirovanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\obj\Debug\net6.0\matmodelirovanie.AssemblyInfoInputs.cache
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\obj\Debug\net6.0\matmodelirovanie.AssemblyInfo.cs
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\obj\Debug\net6.0\matmodelirovanie.csproj.CoreCompileInputs.cache
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\bin\Debug\net6.0\matmodelirovanie.exe
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\bin\Debug\net6.0\matmodelirovanie.deps.json
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\bin\Debug\net6.0\matmodelirovanie.runtimeconfig.json
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\bin\Debug\net6.0\matmodelirovanie.dll
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\bin\Debug\net6.0\matmodelirovanie.pdb
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\obj\Debug\net6.0\matmodelirovanie.dll
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\obj\Debug\net6.0\refint\matmodelirovanie.dll
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\obj\Debug\net6.0\matmodelirovanie.pdb
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\obj\Debug\net6.0\matmodelirovanie.genruntimeconfig.cache
+C:\Users\lied0\source\repos\matmodelirovanie\matmodelirovanie\obj\Debug\net6.0\ref\matmodelirovanie.dll
